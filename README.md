@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-This is my first time using GitHub.
+My name is Choi Lai.  I am a data analyst.  This is my first time using GitHub.
